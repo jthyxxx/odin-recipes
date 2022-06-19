@@ -1,0 +1,19 @@
+body{
+    background-color: darkturquoise;
+}
+
+h1{
+    text-align: center;
+    font-size: 3rem;
+    color: red;
+}
+
+ol{
+    display: table;
+    margin: 0 auto;
+    color: blue;
+}
+
+ol li{
+    font-size: 1.5rem;
+}
