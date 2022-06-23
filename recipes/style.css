@@ -8,6 +8,13 @@ img{
     display: block;
 }
 
+.image{
+    margin-left: 10px;
+}
+
+.image.idk{
+    margin-left: auto;
+}
 h2{
     text-align: center;
     font-size: 3rem;
